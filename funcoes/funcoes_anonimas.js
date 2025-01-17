@@ -22,15 +22,5 @@ let multiplicar = function(){
 
 console.log(soma(1,2));
 console.log(multiplicar());
-console.log(soma(1,2));
-console.log(multiplicar());
-console.log(soma(1,2));
-console.log(multiplicar());
 
 
-console.log(soma(1,2));
-console.log(multiplicar());
-console.log(soma(1,2));
-console.log(multiplicar());
-console.log(soma(1,2));
-console.log(multiplicar());
