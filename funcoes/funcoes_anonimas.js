@@ -23,4 +23,10 @@ let multiplicar = function(){
 console.log(soma(1,2));
 console.log(multiplicar());
 
-
+/*
+git add .
+git commit -m "mensagem"
+git status
+git push
+git push --set-upstream origin "nome da branch" 
+*/
