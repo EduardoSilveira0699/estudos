@@ -12,3 +12,5 @@
 const idade = 28;
 
 console.log(idade);
+
+const nome = "joao";
